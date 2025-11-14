@@ -17,8 +17,8 @@ A powerful cross-platform desktop application for converting images, videos, and
 ## Installation
 
 ```bash
-git clone https://github.com/talantvacheslav/ascii-image-convertor.git
-cd ascii-image-convertor
+git clone https://github.com/talantvacheslav/ascii-converter.git
+cd ascii-converter
 pip install -r requirements.txt
 python main.py
 ```
